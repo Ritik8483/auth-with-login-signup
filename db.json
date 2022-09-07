@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": 3,
+      "name": "Kamal Hasan qwefdf",
+      "email": "kamal9876@gmail.co.in",
+      "phone": 67898765
+    },
+    {
+      "name": "Ritik Chauhan",
+      "email": "Test@gmail.com",
+      "phone": 23456,
+      "id": 4
+    },
+    {
+      "name": "Ritik Chauhan",
+      "email": "Test@gmail.com",
+      "phone": 122,
+      "id": 5
+    },
+    {
+      "name": "jai",
+      "email": "jai@jai.com",
+      "phone": 9890,
+      "id": 6
+    },
+    {
+      "name": "vin Chauhan",
+      "email": "vin@gmail.com",
+      "phone": 23456789,
+      "id": 7
+    },
+    {
+      "name": "nik jonas",
+      "email": "jonas@jai.com",
+      "phone": 876543,
+      "id": 8
+    },
+    {
+      "name": "shikha",
+      "email": "tirpathi@gmail.com",
+      "phone": 23456789,
+      "id": 9
+    },
+    {
+      "name": "putin",
+      "email": "putin@jai.com",
+      "phone": 2345678,
+      "id": 10
+    }
+  ]
+}
